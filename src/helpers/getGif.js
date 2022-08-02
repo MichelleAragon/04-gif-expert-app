@@ -13,6 +13,6 @@ export const getGif = async (category) => {
         
     }))
 
-    console.log(gifs);
+
     return gifs;
 }
