@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a977d8d.css",
-    "main.js": "/static/js/main.1f1078bf.js",
-    "index.html": "/index.html",
-    "main.1a977d8d.css.map": "/static/css/main.1a977d8d.css.map",
-    "main.1f1078bf.js.map": "/static/js/main.1f1078bf.js.map"
+    "main.css": "/04-gif-expert-app/static/css/main.527e2d53.css",
+    "main.js": "/04-gif-expert-app/static/js/main.5bf76192.js",
+    "index.html": "/04-gif-expert-app/index.html",
+    "main.527e2d53.css.map": "/04-gif-expert-app/static/css/main.527e2d53.css.map",
+    "main.5bf76192.js.map": "/04-gif-expert-app/static/js/main.5bf76192.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a977d8d.css",
-    "static/js/main.1f1078bf.js"
+    "static/css/main.527e2d53.css",
+    "static/js/main.5bf76192.js"
   ]
 }
